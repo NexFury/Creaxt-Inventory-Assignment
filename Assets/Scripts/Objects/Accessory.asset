@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a7b2f49d528838498920ed0c9cd5fb3, type: 3}
+  m_Name: Accessory
+  m_EditorClassIdentifier: 
+  objectImage: {fileID: 21300000, guid: 1d42da453de989c4084a7a1dae0e7508, type: 3}
+  weight: 3
+  description: Accessory to boost player stats
+  itemType: 1
